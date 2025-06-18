@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-solution-using-html-markup-and-tailwind-css-ObOWgsda_Q)
-- Live Site URL: [Add live site URL here](https://dan-vc.github.io/frontendmentor-recipe-page/)
+- Solution URL: [Click here!](https://www.frontendmentor.io/solutions/recipe-page-solution-using-html-markup-and-tailwind-css-ObOWgsda_Q)
+- Live Site URL: [Click here!](https://dan-vc.github.io/frontendmentor-recipe-page/)
 
 ## My process
 
