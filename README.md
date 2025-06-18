@@ -15,12 +15,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./assets.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-solution-using-html-markup-and-tailwind-css-ObOWgsda_Q)
+- Live Site URL: [Add live site URL here](https://dan-vc.github.io/frontendmentor-recipe-page/)
 
 ## My process
 
